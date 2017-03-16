@@ -1,0 +1,4 @@
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\Validacao\bin\Debug\Validacao.dll
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\Validacao\bin\Debug\Validacao.pdb
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\Validacao\obj\Debug\Validacao.dll
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\Validacao\obj\Debug\Validacao.pdb

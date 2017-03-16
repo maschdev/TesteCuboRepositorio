@@ -1,0 +1,7 @@
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\Dominio\bin\Debug\Dominio.dll
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\Dominio\bin\Debug\Validacao.dll
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\Dominio\bin\Debug\Validacao.pdb
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\Dominio\obj\Debug\Dominio.dll
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\Dominio\obj\Debug\Dominio.pdb

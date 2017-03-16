@@ -1,0 +1,9 @@
+Para exiber as categorias dos teste, segue esses passos:
+>  Clica na aba "TEST"
+> Windows
+> Test Explorer
+
+Na tela do Test Explorer,tem 3 abas, clica no do meio, na duvida o nome que 
+aparecerá quando o mouse estiver por cima é este:"Group by Project".
+
+> Selecione a opcão: "Traits"

@@ -1,0 +1,15 @@
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CorridaKart\bin\Debug\CorridaKart.exe.config
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CorridaKart\bin\Debug\CorridaKart.exe
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CorridaKart\bin\Debug\CorridaKart.pdb
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CorridaKart\bin\Debug\CargaLog.dll
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CorridaKart\bin\Debug\Dominio.dll
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CorridaKart\bin\Debug\Validacao.dll
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CorridaKart\bin\Debug\CargaLog.pdb
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CorridaKart\bin\Debug\Dominio.pdb
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CorridaKart\bin\Debug\Validacao.pdb
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CorridaKart\obj\Debug\CorridaKart.csprojResolveAssemblyReference.cache
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CorridaKart\obj\Debug\CorridaKart.exe
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CorridaKart\obj\Debug\CorridaKart.pdb
+C:\Users\Caio\Source\Repos\TesteCuboRepositorio\Teste\CorridaKart\bin\Debug\CorridaKart.exe.config
+C:\Users\Caio\Source\Repos\TesteCuboRepositorio\Teste\CorridaKart\obj\Debug\CorridaKart.exe
+C:\Users\Caio\Source\Repos\TesteCuboRepositorio\Teste\CorridaKart\obj\Debug\CorridaKart.pdb

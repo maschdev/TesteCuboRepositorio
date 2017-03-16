@@ -1,0 +1,9 @@
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CargaLog\bin\Debug\CargaLog.dll
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CargaLog\bin\Debug\CargaLog.pdb
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CargaLog\bin\Debug\Dominio.dll
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CargaLog\bin\Debug\Validacao.dll
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CargaLog\bin\Debug\Dominio.pdb
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CargaLog\bin\Debug\Validacao.pdb
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CargaLog\obj\Debug\CargaLog.csprojResolveAssemblyReference.cache
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CargaLog\obj\Debug\CargaLog.dll
+C:\Users\Caio\documents\visual studio 2015\Projects\Teste\CargaLog\obj\Debug\CargaLog.pdb
